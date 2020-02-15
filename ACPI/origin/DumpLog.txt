@@ -1,0 +1,171 @@
+7:052  0:149  Found BIOS RSDP at F0120
+7:052  0:000  Printing ACPI tables from RSDP F0120 ...
+7:052  0:000   F0120: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+7:052  0:000    (Xsdt: 7BECE188, Rsdt: 7BECE0C4)
+7:052  0:000    7BECE188: 'XSDT', 'TP-R0D', Rev: 1, Len: 252
+7:052  0:000    7BECE0C4: 'RSDT', 'TP-R0D', Rev: 1, Len: 144
+7:052  0:000    Tables in Xsdt: 27
+7:052  0:000    0. 7BEF3000: 'FACP', 'TP-R0D', Rev: 5, Len: 244
+7:052  0:000        (Dsdt: 7BEDA000, Facs: 7BE5B000, XDsdt: 7BEDA000, XFacs: 0)
+7:052  0:000        7BEDA000: 'DSDT', 'TP-R0D', Rev: 2, Len: 78145
+7:053  0:001        7BE5B000: 'FACS', Ver: 2, Len: 64
+7:053  0:000    1. 7BEFB000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1198
+7:053  0:000    2. 7BEFA000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+7:053  0:000    3. 7BEF9000: 'TPM2', 'TP-R0D', Rev: 3, Len: 52
+7:053  0:000    4. 7BE71000: 'UEFI', 'TP-R0D', Rev: 1, Len: 66
+7:053  0:000    5. 7BEF5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12869
+7:053  0:000    6. 7BEF4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1884
+7:053  0:000    7. 7BEF2000: 'HPET', 'TP-R0D', Rev: 1, Len: 56
+7:053  0:000    8. 7BEF1000: 'APIC', 'TP-R0D', Rev: 3, Len: 188
+7:053  0:000    9. 7BEF0000: 'MCFG', 'TP-R0D', Rev: 1, Len: 60
+7:053  0:000    10. 7BEEF000: 'ASF!', 'TP-R0D', Rev: 32, Len: 97
+7:053  0:000    11. 7BEEE000: 'ECDT', 'TP-R0D', Rev: 1, Len: 82
+7:053  0:000    12. 7BED7000: 'SSDT', 'SataAhci', Rev: 1, Len: 11757
+7:053  0:000    13. 7BED6000: 'BOOT', 'TP-R0D', Rev: 1, Len: 40
+7:053  0:000    14. 7BED5000: 'BATB', 'TP-R0D', Rev: 2, Len: 74
+7:053  0:000    15. 7BED4000: 'SLIC', 'TP-R0D', Rev: 1, Len: 374
+7:053  0:000    16. 7BED3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3808
+7:053  0:000    17. 7BED2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1276
+7:053  0:000    18. 7BED1000: 'DBGP', 'TP-R0D', Rev: 1, Len: 52
+7:053  0:000    19. 7BED0000: 'DBG2', 'TP-R0D', Rev: 0, Len: 84
+7:053  0:000    20. 7BECF000: 'POAT', 'TP-R0D', Rev: 3, Len: 85
+7:053  0:000    21. 7BEFC000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+7:053  0:000    22. 7BECC000: 'SSDT', 'SgUlt', Rev: 2, Len: 5928
+7:053  0:000    23. 7BECB000: 'SSDT', 'SgPch', Rev: 2, Len: 36
+7:053  0:000    24. 7BECA000: 'DMAR', 'TP-R0D', Rev: 1, Len: 168
+7:053  0:000    25. 7BEC9000: 'FPDT', 'TP-R0D', Rev: 1, Len: 68
+7:053  0:000    26. 7BE59000: 'UEFI', 'TP-R0D', Rev: 1, Len: 298
+7:053  0:000    Tables in Rsdt: 27
+7:053  0:000    0. 7BEF3000: 'FACP', 'TP-R0D', Rev: 5, Len: 244
+7:053  0:000        (Dsdt: 7BEDA000, Facs: 7BE5B000, XDsdt: 7BEDA000, XFacs: 0)
+7:053  0:000        7BEDA000: 'DSDT', 'TP-R0D', Rev: 2, Len: 78145
+7:054  0:001        7BE5B000: 'FACS', Ver: 2, Len: 64
+7:054  0:000    1. 7BEFB000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1198
+7:055  0:000    2. 7BEFA000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+7:055  0:000    3. 7BEF9000: 'TPM2', 'TP-R0D', Rev: 3, Len: 52
+7:055  0:000    4. 7BE71000: 'UEFI', 'TP-R0D', Rev: 1, Len: 66
+7:055  0:000    5. 7BEF5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12869
+7:055  0:000    6. 7BEF4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1884
+7:055  0:000    7. 7BEF2000: 'HPET', 'TP-R0D', Rev: 1, Len: 56
+7:055  0:000    8. 7BEF1000: 'APIC', 'TP-R0D', Rev: 3, Len: 188
+7:055  0:000    9. 7BEF0000: 'MCFG', 'TP-R0D', Rev: 1, Len: 60
+7:055  0:000    10. 7BEEF000: 'ASF!', 'TP-R0D', Rev: 32, Len: 97
+7:055  0:000    11. 7BEEE000: 'ECDT', 'TP-R0D', Rev: 1, Len: 82
+7:055  0:000    12. 7BED7000: 'SSDT', 'SataAhci', Rev: 1, Len: 11757
+7:055  0:000    13. 7BED6000: 'BOOT', 'TP-R0D', Rev: 1, Len: 40
+7:055  0:000    14. 7BED5000: 'BATB', 'TP-R0D', Rev: 2, Len: 74
+7:055  0:000    15. 7BED4000: 'SLIC', 'TP-R0D', Rev: 1, Len: 374
+7:055  0:000    16. 7BED3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3808
+7:055  0:000    17. 7BED2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1276
+7:055  0:000    18. 7BED1000: 'DBGP', 'TP-R0D', Rev: 1, Len: 52
+7:055  0:000    19. 7BED0000: 'DBG2', 'TP-R0D', Rev: 0, Len: 84
+7:055  0:000    20. 7BECF000: 'POAT', 'TP-R0D', Rev: 3, Len: 85
+7:055  0:000    21. 7BEFC000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+7:055  0:000    22. 7BECC000: 'SSDT', 'SgUlt', Rev: 2, Len: 5928
+7:055  0:000    23. 7BECB000: 'SSDT', 'SgPch', Rev: 2, Len: 36
+7:055  0:000    24. 7BECA000: 'DMAR', 'TP-R0D', Rev: 1, Len: 168
+7:055  0:000    25. 7BEC9000: 'FPDT', 'TP-R0D', Rev: 1, Len: 68
+7:055  0:000    26. 7BE59000: 'UEFI', 'TP-R0D', Rev: 1, Len: 298
+7:055  0:000  Found UEFI Acpi 2.0 RSDP at 7BEFD014
+7:055  0:000  Saving ACPI tables from RSDP 7BEFD014 to EFI\CLOVER\ACPI\origin ...
+7:055  0:000   7BEFD014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+7:055  0:000    (Xsdt: 7BECE188, Rsdt: 7BECE0C4)
+7:055  0:000    7BECE188: 'XSDT', 'TP-R0D', Rev: 1, Len: 252
+7:055  0:000    7BECE0C4: 'RSDT', 'TP-R0D', Rev: 1, Len: 144
+7:055  0:000    Tables in Xsdt: 27
+7:055  0:000    0. 7BEF3000: 'FACP', 'TP-R0D', Rev: 5, Len: 244
+7:055  0:000        (Dsdt: 7BEDA000, Facs: 7BE5B000, XDsdt: 7BEDA000, XFacs: 0)
+7:055  0:000        7BEDA000: 'DSDT', 'TP-R0D', Rev: 2, Len: 78145
+7:056  0:001        7BE5B000: 'FACS', Ver: 2, Len: 64
+7:056  0:000    1. 7BEFB000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1198
+7:056  0:000    2. 7BEFA000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+7:056  0:000    3. 7BEF9000: 'TPM2', 'TP-R0D', Rev: 3, Len: 52
+7:056  0:000    4. 7BE71000: 'UEFI', 'TP-R0D', Rev: 1, Len: 66
+7:056  0:000    5. 7BEF5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12869
+7:056  0:000    6. 7BEF4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1884
+7:056  0:000    7. 7BEF2000: 'HPET', 'TP-R0D', Rev: 1, Len: 56
+7:056  0:000    8. 7BEF1000: 'APIC', 'TP-R0D', Rev: 3, Len: 188
+7:056  0:000    9. 7BEF0000: 'MCFG', 'TP-R0D', Rev: 1, Len: 60
+7:056  0:000    10. 7BEEF000: 'ASF!', 'TP-R0D', Rev: 32, Len: 97
+7:056  0:000    11. 7BEEE000: 'ECDT', 'TP-R0D', Rev: 1, Len: 82
+7:056  0:000    12. 7BED7000: 'SSDT', 'SataAhci', Rev: 1, Len: 11757
+7:056  0:000    13. 7BED6000: 'BOOT', 'TP-R0D', Rev: 1, Len: 40
+7:056  0:000    14. 7BED5000: 'BATB', 'TP-R0D', Rev: 2, Len: 74
+7:056  0:000    15. 7BED4000: 'SLIC', 'TP-R0D', Rev: 1, Len: 374
+7:056  0:000    16. 7BED3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3808
+7:056  0:000    17. 7BED2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1276
+7:056  0:000    18. 7BED1000: 'DBGP', 'TP-R0D', Rev: 1, Len: 52
+7:056  0:000    19. 7BED0000: 'DBG2', 'TP-R0D', Rev: 0, Len: 84
+7:056  0:000    20. 7BECF000: 'POAT', 'TP-R0D', Rev: 3, Len: 85
+7:056  0:000    21. 7BEFC000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+7:056  0:000    22. 7BECC000: 'SSDT', 'SgUlt', Rev: 2, Len: 5928
+7:056  0:000    23. 7BECB000: 'SSDT', 'SgPch', Rev: 2, Len: 36
+7:056  0:000    24. 7BECA000: 'DMAR', 'TP-R0D', Rev: 1, Len: 168
+7:056  0:000    25. 7BEC9000: 'FPDT', 'TP-R0D', Rev: 1, Len: 68
+7:056  0:000    26. 7BE59000: 'UEFI', 'TP-R0D', Rev: 1, Len: 298
+7:056  0:000    Tables in Rsdt: 27
+7:056  0:000    0. 7BEF3000: 'FACP', 'TP-R0D', Rev: 5, Len: 244
+7:056  0:000        (Dsdt: 7BEDA000, Facs: 7BE5B000, XDsdt: 7BEDA000, XFacs: 0)
+7:056  0:000        7BEDA000: 'DSDT', 'TP-R0D', Rev: 2, Len: 78145
+7:057  0:001        7BE5B000: 'FACS', Ver: 2, Len: 64
+7:057  0:000    1. 7BEFB000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1198
+7:057  0:000    2. 7BEFA000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+7:057  0:000    3. 7BEF9000: 'TPM2', 'TP-R0D', Rev: 3, Len: 52
+7:057  0:000    4. 7BE71000: 'UEFI', 'TP-R0D', Rev: 1, Len: 66
+7:057  0:000    5. 7BEF5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12869
+7:057  0:000    6. 7BEF4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1884
+7:057  0:000    7. 7BEF2000: 'HPET', 'TP-R0D', Rev: 1, Len: 56
+7:057  0:000    8. 7BEF1000: 'APIC', 'TP-R0D', Rev: 3, Len: 188
+7:057  0:000    9. 7BEF0000: 'MCFG', 'TP-R0D', Rev: 1, Len: 60
+7:057  0:000    10. 7BEEF000: 'ASF!', 'TP-R0D', Rev: 32, Len: 97
+7:057  0:000    11. 7BEEE000: 'ECDT', 'TP-R0D', Rev: 1, Len: 82
+7:057  0:000    12. 7BED7000: 'SSDT', 'SataAhci', Rev: 1, Len: 11757
+7:057  0:000    13. 7BED6000: 'BOOT', 'TP-R0D', Rev: 1, Len: 40
+7:057  0:000    14. 7BED5000: 'BATB', 'TP-R0D', Rev: 2, Len: 74
+7:057  0:000    15. 7BED4000: 'SLIC', 'TP-R0D', Rev: 1, Len: 374
+7:057  0:000    16. 7BED3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3808
+7:057  0:000    17. 7BED2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1276
+7:057  0:000    18. 7BED1000: 'DBGP', 'TP-R0D', Rev: 1, Len: 52
+7:057  0:000    19. 7BED0000: 'DBG2', 'TP-R0D', Rev: 0, Len: 84
+7:057  0:000    20. 7BECF000: 'POAT', 'TP-R0D', Rev: 3, Len: 85
+7:057  0:000    21. 7BEFC000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+7:057  0:000    22. 7BECC000: 'SSDT', 'SgUlt', Rev: 2, Len: 5928
+7:057  0:000    23. 7BECB000: 'SSDT', 'SgPch', Rev: 2, Len: 36
+7:057  0:000    24. 7BECA000: 'DMAR', 'TP-R0D', Rev: 1, Len: 168
+7:057  0:000    25. 7BEC9000: 'FPDT', 'TP-R0D', Rev: 1, Len: 68
+7:057  0:000    26. 7BE59000: 'UEFI', 'TP-R0D', Rev: 1, Len: 298
+7:057  0:000  Found UEFI Acpi 1.0 RSDP at 7BEFD000
+7:057  0:000  Printing ACPI tables from RSDP 7BEFD000 ...
+7:057  0:000   7BEFD000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+7:057  0:000    (Rsdt: 7BECE000)
+7:057  0:000    7BECE000: 'RSDT', 'TP-R0D', Rev: 1, Len: 140
+7:057  0:000    Tables in Rsdt: 26
+7:057  0:000    0. 7BEF3000: 'FACP', 'TP-R0D', Rev: 5, Len: 244
+7:057  0:000        (Dsdt: 7BEDA000, Facs: 7BE5B000, XDsdt: 7BEDA000, XFacs: 0)
+7:057  0:000        7BEDA000: 'DSDT', 'TP-R0D', Rev: 2, Len: 78145
+7:058  0:001        7BE5B000: 'FACS', Ver: 2, Len: 64
+7:058  0:000    1. 7BEFB000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1198
+7:058  0:000    2. 7BEFA000: 'SSDT', 'MeSsdt', Rev: 2, Len: 70
+7:058  0:000    3. 7BEF9000: 'TPM2', 'TP-R0D', Rev: 3, Len: 52
+7:058  0:000    4. 7BE71000: 'UEFI', 'TP-R0D', Rev: 1, Len: 66
+7:058  0:000    5. 7BEF5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12869
+7:058  0:000    6. 7BEF4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1884
+7:058  0:000    7. 7BEF2000: 'HPET', 'TP-R0D', Rev: 1, Len: 56
+7:058  0:000    8. 7BEF1000: 'APIC', 'TP-R0D', Rev: 3, Len: 188
+7:058  0:000    9. 7BEF0000: 'MCFG', 'TP-R0D', Rev: 1, Len: 60
+7:058  0:000    10. 7BEEF000: 'ASF!', 'TP-R0D', Rev: 32, Len: 97
+7:058  0:000    11. 7BEEE000: 'ECDT', 'TP-R0D', Rev: 1, Len: 82
+7:058  0:000    12. 7BED7000: 'SSDT', 'SataAhci', Rev: 1, Len: 11757
+7:058  0:000    13. 7BED6000: 'BOOT', 'TP-R0D', Rev: 1, Len: 40
+7:058  0:000    14. 7BED5000: 'BATB', 'TP-R0D', Rev: 2, Len: 74
+7:058  0:000    15. 7BED3000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3808
+7:058  0:000    16. 7BED2000: 'SSDT', 'CtdpB', Rev: 2, Len: 1276
+7:058  0:000    17. 7BED1000: 'DBGP', 'TP-R0D', Rev: 1, Len: 52
+7:058  0:000    18. 7BED0000: 'DBG2', 'TP-R0D', Rev: 0, Len: 84
+7:058  0:000    19. 7BECF000: 'POAT', 'TP-R0D', Rev: 3, Len: 85
+7:058  0:000    20. 7BEFC000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 108
+7:058  0:000    21. 7BECC000: 'SSDT', 'SgUlt', Rev: 2, Len: 5928
+7:058  0:000    22. 7BECB000: 'SSDT', 'SgPch', Rev: 2, Len: 36
+7:058  0:000    23. 7BECA000: 'DMAR', 'TP-R0D', Rev: 1, Len: 168
+7:058  0:000    24. 7BEC9000: 'FPDT', 'TP-R0D', Rev: 1, Len: 68
+7:058  0:000    25. 7BE59000: 'UEFI', 'TP-R0D', Rev: 1, Len: 298
