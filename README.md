@@ -20,6 +20,8 @@ CPU: i5-7200U , 集显: Intel HD 620 , 独显: NVIDIA GeForce 940MX
 
 电池信息正常
 
+蓝牙可以识别，具体驱动在[这个仓库](https://github.com/zxystd/IntelBluetoothFirmware)， **蓝牙驱动请自己下载**
+
 # 使用方法
 
 下载此 repo ，将文件复制进 EFI/CLOVER/
